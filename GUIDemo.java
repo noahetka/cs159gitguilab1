@@ -18,6 +18,8 @@ public class GUIDemo extends JFrame
 
     /**
      * Set up the application.
+     * 
+     * This is the ooey gooey chewy demo
      */
     public GUIDemo()
     {
